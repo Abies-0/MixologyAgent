@@ -1,0 +1,7 @@
+Pipfile
+*.yaml
+data/
+logs/
+__pycache__
+temp/
+*.sh
